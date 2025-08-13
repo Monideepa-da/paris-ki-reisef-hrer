@@ -33,7 +33,7 @@ Dieses Projekt ist ein KI-gestützter Chatbot, der mit der OpenAI-API entwickelt
 ### Nutzung
 
 Chatbot-Skript ausführen:
-python **paris_guide.py**
+python **paris_ki_führung.ipynb**
 
 Das Skript simuliert ein Gespräch und beantwortet typische Fragen von Paris-Besuchern.
 
